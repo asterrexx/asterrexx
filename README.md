@@ -7,6 +7,6 @@ A hobbyist who enjoys exploring different languages.
 
 - HTML and CSS for 3+ years.
 - Java and Javascript for 1-2 years.
-- Python for 2 years.
+- Python for 3 years.
 
 Currently learning C++.
