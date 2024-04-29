@@ -1,12 +1,4 @@
-# Hiya! I'm Andy 🌈
+# Hiya! I'm Andy
 **they / them**
 
-A hobbyist who enjoys exploring different languages.
-
-### Coding Experience:
-
-- HTML and CSS for 3+ years.
-- Java and Javascript for 1-2 years.
-- Python for 3 years.
-
-Currently learning C++.
+I'm a creative studying in information technology and multimedia design looking to archive all my academic or personal projects somewhere for future viewing. I've had years of experience in web design and other forms of computer graphics, and look to continue my pursuit of this hobby with this site as a repository of all my work. Hope you enjoy! 
