@@ -1,4 +1,4 @@
 # Hey there! I'm Aster.
 **she / any**
 
-I'm a creative studying in information technology and multimedia design looking to archive all my academic or personal projects somewhere for future viewing. I've had years of experience in web design and other forms of computer graphics, and look to continue my pursuit of this hobby with github as a log of all my work. Hope you enjoy! 
+I'm a teen studying computer science in high school who enjoys learning about the various things technology has to offer. I have a working understanding of Java, Python, and C++, but I want to learn a lot more about programming and electronics.
